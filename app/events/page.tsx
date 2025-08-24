@@ -294,14 +294,6 @@ export default function EventsPage() {
           </div>
         </div>
       </main>
-
-      <footer className="bg-gradient-to-br from-red-900 to-red-950 py-8">
-        <div className="max-w-6xl mx-auto px-6 text-center">
-          <p className="text-white/60 text-sm">
-            Website by <span className="text-white/80 font-medium">Adil Mukhi</span>
-          </p>
-        </div>
-      </footer>
     </div>
   )
 }
